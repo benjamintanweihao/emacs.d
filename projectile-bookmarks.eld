@@ -1,0 +1,1 @@
+("~/Desktop/clojure-koans/" "~/.emacs.d/")
